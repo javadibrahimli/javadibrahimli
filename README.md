@@ -59,9 +59,6 @@ I specialize in **real-time vision & deep learning pipelines**, combining **2D &
 ✅ **Vision Transformer-based Lane Detection**  
 Deep transformer architecture for **robust lane & road marking segmentation**.  
 
-✅ **LiDAR + RGB Fusion for Scene Perception**  
-Combining **3D point clouds with camera data** for object detection & free-space estimation.  
-
 ✅ **Real-Time Medical Image Segmentation (Edge AI)**  
 Optimized **U-Net architecture** deployable on **low-power edge devices** for ultrasound imaging.  
 
