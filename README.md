@@ -1,117 +1,166 @@
-<!-- ====== PREMIUM DARK HEADER ====== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1C,100:0E1E40&height=220&section=header&text=Javad%20Ibrahimli&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Vision%20%7C%20Machine%20Learning%20%7C%20Autonomous%20Systems&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=240&section=header&text=Javad%20Ibrahimli&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%7C%20Machine%20Learning%20%7C%20Autonomous%20Systems&descAlignY=58&descSize=18"/>
 
+<br>
 
-<!-- ===== PROFESSIONAL TAGLINE ===== -->
-<p align="center">
-  <strong style="font-size:18px;">CVML Engineer • Deep Learning • Real-Time AI Systems</strong><br>
-  <sub>Designing advanced perception & AI pipelines for vision-driven intelligence</sub>
-</p>
+### CVML Engineer | Deep Learning | Real-Time AI Systems
 
-<!-- ===== PRO LINKS ===== -->
-<p align="center">
-  <a href="https://javadibrahimli.github.io"><img src="https://img.shields.io/badge/Portfolio-0A0F1C?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/cavadibrahimli/"><img src="https://img.shields.io/badge/LinkedIn-1D6EC1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.researchgate.net/profile/Javad-Ibrahimli"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
-  <a href="mailto:cenabibrahimov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+*Electronics & Communication Engineering @ Istanbul Technical University*
 
----
+<br>
 
-## 🚀 About Me  
-
-I’m **Javad Ibrahimli**, a **Computer Vision & Machine Learning Engineer (CVML)** building **AI-powered perception systems** for industries like **autonomous driving, medical imaging, and advanced analytics**.  
-
-I specialize in **real-time vision & deep learning pipelines**, combining **2D & 3D visual data** with advanced ML architectures to deliver **accurate, scalable, and deployment-ready solutions**.  
-
-💡 *“My mission is to make visual data intelligent & actionable through state-of-the-art AI.”*  
-
----
-
-## 🎯 Core Expertise  
-
-✅ **Computer Vision** – Object Detection, Instance Segmentation, Feature Extraction  
-✅ **Deep Learning for Vision** – Vision Transformers (ViT), CNNs, multi-modal perception  
-✅ **3D Vision & Scene Understanding** – Point clouds, LiDAR/RGB fusion  
-✅ **Real-Time AI Optimization** – CUDA, TensorRT, ONNX for embedded devices  
-✅ **Edge AI & Deployment** – NVIDIA Jetson, optimized inference pipelines  
-
----
-
-## 🛠 Tech Stack  
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,cuda,linux,docker,git,github,matlab" /><br>
-
-**Languages:** Python, C++, CUDA  
-**Frameworks:** PyTorch, TensorFlow, OpenCV, TorchVision  
-**Optimization & Deployment:** ONNX, TensorRT, NVIDIA Jetson, Docker  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://javadibrahimli.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cavadibrahimli/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Javad-Ibrahimli)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=z-1vEngAAAAJ&hl=tr)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cenabibrahimov@gmail.com)
 
 </div>
 
----
+<br>
 
-## 📌 Selected CVML Projects  
+## About Me
 
-✅ **Vision Transformer-based Lane Detection**  
-Deep transformer architecture for **robust lane & road marking segmentation**.  
+I''m **Javad Ibrahimli**, an **Electronics and Communication Engineering student** at **Istanbul Technical University**, specializing in **Computer Vision and Artificial Intelligence**. I focus on end-to-end AI and Computer Vision project development, from version control to production deployment.
 
-✅ **Real-Time Medical Image Segmentation (Edge AI)**  
-Optimized **U-Net architecture** deployable on **low-power edge devices** for ultrasound imaging.  
+My expertise includes **Vision Transformers (ViTs)**, **Vision Language Models (VLMs)**, real-time vision systems, and signal processing. I build complete AI systems covering project architecture, model development, MLOps, and deployment optimization.
 
-✅ **Multi-class Object Detection Pipeline**  
-YOLOv8 & Detectron2-based **detection + tracking for industrial applications**.  
+I integrate computer vision with sensor fusion using **LiDAR, RADAR, cameras, and GPS** for autonomous applications.
 
-✅ **High-Performance Image Stitching**  
-Computer vision pipeline for seamless **panorama generation using SIFT/ORB features**.  
+> **Current Focus:** Vision language models, autonomous perception systems, edge AI optimization, and production MLOps infrastructure
 
-🔗 *More CVML projects → [GitHub Projects](https://github.com/javadibrahimli?tab=repositories)*  
+<br>
 
----
+## Core Expertise
 
-## 📊 GitHub Insights  
+<table>
+<tr>
+<td width="50%">
+
+**Computer Vision**
+- Object Detection & Tracking
+- Instance Segmentation
+- Super-Resolution Techniques
+- Feature Extraction & Matching
+
+**Deep Learning for Vision**
+- Vision Transformers (ViT)
+- Vision Language Models (VLM)
+- Convolutional Neural Networks
+- Multi-modal Perception
+
+</td>
+<td width="50%">
+
+**3D Vision & Scene Understanding**
+- Point Cloud Processing
+- LiDAR/RGB/RADAR Fusion
+- Depth Estimation
+- Sensor Fusion (GPS/IMU)
+
+**AI Optimization & Deployment**
+- Edge AI Deployment
+- TensorRT & ONNX Optimization
+- MLOps Infrastructure
+- Production Systems
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Autonomous Systems
+
+**[Autonomous Tomato Farm Robot](https://github.com/javadibrahimli/tomato_agribot_ros2)**  
+ROS2-based autonomous navigation with GPS localization, EKF sensor fusion, and crop inspection in Gazebo simulation
+
+**[Autonomous Vehicle Motion Planning](https://github.com/javadibrahimli/autonomous-vehicle-motion-planning)**  
+Multi-layered planning algorithms for obstacle navigation, traffic compliance, and end-to-end autonomous navigation
+
+**[PID Controller Path Planning](https://github.com/javadibrahimli/path-planning-project)** | [📹 Demo](https://www.youtube.com/watch?v=oW8DUQ_Lcrc)  
+Self-driving car navigation with PID controller for lane keeping and collision avoidance
+
+</td>
+<td width="50%">
+
+### Computer Vision & ML
+
+**[Label Mender](https://github.com/javadibrahimli/Label-Mender)**  
+Professional YOLO annotation tool with PyQt5. VLM & SAM integration coming soon
+
+**[Advanced Lane Detection](https://github.com/javadibrahimli/advanced-lane-detection)** | [📹 Demo](https://www.youtube.com/watch?v=yQxMjU6_gMM)  
+Deep learning-based lane detection with robust performance under varying conditions
+
+**[GPS Publisher for ROS2](https://github.com/javadibrahimli/gps_publisher_ros2humble)**  
+Real-time GPS and IMU data simulation for autonomous system testing
+
+</td>
+</tr>
+</table>
+
+### Research Projects
+
+- **Edge-Deployable Deep Segmentation of Breast Ultrasound Images via Optimized U-Net** - Optimized U-Net architecture for real-time medical image segmentation on edge devices
+- **Urban Noise Classification Using Machine Learning Algorithms** - Comprehensive ML approach for smart city noise pollution monitoring
+- **AI-Driven Detection of Network Traffic Anomalies** - ML-based anomaly detection validated through OMNeT++ simulation
+- **Machine Learning Models for Heart Attack Prediction** - Predictive analytics for cardiovascular risk assessment
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=javadibrahimli&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javadibrahimli&layout=compact&theme=github_dark&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=javadibrahimli&theme=dark&hide_border=true" />
+**For more projects, publications, and detailed information, please visit [javadibrahimli.github.io](https://javadibrahimli.github.io)**
 
 </div>
 
----
+<br>
 
-## 📈 Activity Overview  
+## Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javadibrahimli&theme=github-dark&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,cuda,linux,docker,git,github,matlab,ros" />
+
+<br><br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python  C++  CUDA |
+| **Frameworks** | PyTorch  TensorFlow  OpenCV  ROS2  TorchVision |
+| **Optimization** | ONNX  TensorRT  Edge Deployment  MLOps |
+| **Tools** | Docker  Git  Gazebo  OMNeT++  PyQt5 |
+
 </div>
 
----
+<br>
 
 
+## GitHub Statistics
 
-## 🤝 Let’s Collaborate  
+<div align="center">
 
-💼 **Specialized in:** Computer Vision • Deep Learning for Vision • Real-Time AI Systems  
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=javadibrahimli&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javadibrahimli&layout=compact&theme=github_dark&hide_border=true&langs_count=5&bg_color=0d1117" />
+<img height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=javadibrahimli&theme=dark&hide_border=true&background=0d1117" />
 
-🌐 **Portfolio:** [javadibrahimli.github.io](https://javadibrahimli.github.io)  
-💼 **LinkedIn:** [linkedin.com/in/cavadibrahimli](https://www.linkedin.com/in/cavadibrahimli/)  
-📄 **ResearchGate:** [researchgate.net/profile/Javad-Ibrahimli](https://www.researchgate.net/profile/Javad-Ibrahimli)  
-📧 **Email:** cenabibrahimov@gmail.com  
+</div>
 
-> *I’m open to collaborations in **Deep Learning for Computer Vision, Perception AI & Edge Deployment.***  
+<br>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=javadibrahimli&style=flat-square&color=blue" alt="Profile views"/>
 
-  ⭐ *If you work on **Computer Vision, Deep Learning, or AI perception systems**, let’s connect!*  
+![Profile Views](https://komarev.com/ghpvc/?username=javadibrahimli&style=flat-square&color=0e75b6)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000411,100:0E2C54&height=100&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=120&section=footer"/>
+
 </div>
