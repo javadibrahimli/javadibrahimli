@@ -1,14 +1,11 @@
 <div align="center">
 
-
 <br>
-
 
 # Javad Ibrahimli
 ### CVML Engineer | Deep Learning | Real-Time AI Systems
 
-
-*Electronics & Communication Engineering @ Istanbul Technical University*
+*M.Sc. Computer Science & B.Sc. Electronics and Communication Engineering @ Istanbul Technical University*
 
 <br>
 
@@ -24,7 +21,7 @@
 
 ## About Me
 
-I'm **Javad Ibrahimli**, an **Electronics and Communication Engineering student** at **Istanbul Technical University**, specializing in **Computer Vision and Artificial Intelligence**. I focus on end-to-end AI and Computer Vision project development, from version control to production deployment.
+I'm **Javad Ibrahimli**, a **Computer Science M.Sc. student** and **Electronics and Communication Engineering B.Sc. graduate** from **Istanbul Technical University**, specializing in **Computer Vision and Artificial Intelligence**. I focus on end-to-end AI and Computer Vision project development, from version control to production deployment.
 
 My expertise includes **Vision Transformers (ViTs)**, **Vision Language Models (VLMs)**, real-time vision systems, and signal processing. I build complete AI systems covering project architecture, model development, MLOps, and deployment optimization.
 
@@ -76,9 +73,6 @@ I integrate computer vision with sensor fusion using **LiDAR, RADAR, cameras, an
 
 <br>
 
-
-
-
 </div>
 
 <br>
@@ -89,15 +83,12 @@ I integrate computer vision with sensor fusion using **LiDAR, RADAR, cameras, an
 
 <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,cuda,linux,docker,git,github,matlab,ros" />
 
-
-
 <br>
 
 
 ## GitHub Statistics
 
 <div align="center">
-
 
 <img height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=javadibrahimli&theme=dark&hide_border=true&background=0d1117" />
 
@@ -112,6 +103,5 @@ I integrate computer vision with sensor fusion using **LiDAR, RADAR, cameras, an
 ![Profile Views](https://komarev.com/ghpvc/?username=javadibrahimli&style=flat-square&color=0e75b6)
 
 <br>
-
 
 </div>
